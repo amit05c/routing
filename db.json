@@ -1,0 +1,7 @@
+{
+    "products":[
+        {"id":1, "name": "Shirt", "gender": "Men"},
+        {"id":2, "name": "Pant", "gender": "men"},
+        {"id":3, "name": "Jeans", "gender": "women"}
+    ]
+}
