@@ -17,7 +17,7 @@ const Products = () => {
      {prod.map((elem)=>{
        return (
          <div key={elem.id}>
-           <Link to={`/products/${elem.name}`}>{elem.name}</Link>
+           <Link to={`/products/${elem.name}/${elem.id}`}>{elem.name}</Link>
            
          </div>
        )
